@@ -1,4 +1,4 @@
-# Java Core -- README
+-- # Java Core --
 
 ## Overview
 
