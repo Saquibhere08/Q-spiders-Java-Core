@@ -205,7 +205,7 @@ JavaTPoint
 
 ## Author
 
-Your Name
+Saquib Bin Halim
 
 ## License
 
