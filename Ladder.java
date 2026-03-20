@@ -12,12 +12,14 @@ public class Ladder {
 			if(userId == dbId) {
 				if(userPwd == dbPwd) {
 					System.out.println("Welcome to Homepage");
-				}else 
-					System.out.println("Worng  password");
-			}else
-					System.out.println("Wrong ID");
+				}else if(userId !=dbId) {
+					System.out.println("Worng  username or password");
 			}
+			else if(userPwd !=dbPwd) {
+					System.out.println("Wrong username or password");
+			}else
+				System.out.println("Invalid Output");
 	}
+}
+}
 
-
-+
